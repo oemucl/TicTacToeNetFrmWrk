@@ -13,7 +13,6 @@ namespace TicTacToeGui
         /// </summary>
         [STAThread]
 
-
         static void Main()
         {
             Application.EnableVisualStyles();
